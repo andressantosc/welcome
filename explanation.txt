@@ -1,0 +1,3 @@
+This is just an explanation
+About what I'm doing here.
+I'm adding a file in GItHub.
